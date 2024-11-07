@@ -1,6 +1,6 @@
 {
     "parent": "minecraft:item/handheld",
     "textures": {
-      "layer0": "catsmp:item/detroit"
+      "layer0": "catsmp:item/cards/set_1/detroit"
     }
   }

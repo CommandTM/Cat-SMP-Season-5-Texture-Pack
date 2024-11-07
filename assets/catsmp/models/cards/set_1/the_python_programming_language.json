@@ -1,6 +1,6 @@
 {
     "parent": "minecraft:item/handheld",
     "textures": {
-      "layer0": "catsmp:item/the_python_programming_language"
+      "layer0": "catsmp:item/cards/set_1/the_python_programming_language"
     }
   }

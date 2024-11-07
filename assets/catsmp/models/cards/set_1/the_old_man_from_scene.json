@@ -1,6 +1,6 @@
 {
     "parent": "minecraft:item/handheld",
     "textures": {
-      "layer0": "catsmp:item/the_old_man_from_scene"
+      "layer0": "catsmp:item/cards/set_1/the_old_man_from_scene"
     }
   }

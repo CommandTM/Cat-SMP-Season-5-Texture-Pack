@@ -1,6 +1,6 @@
 {
     "parent": "minecraft:item/handheld",
     "textures": {
-      "layer0": "catsmp:item/wii_play_motion"
+      "layer0": "catsmp:item/cards/set_1/wii_play_motion"
     }
   }

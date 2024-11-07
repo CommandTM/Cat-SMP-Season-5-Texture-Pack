@@ -1,6 +1,6 @@
 {
     "parent": "minecraft:item/handheld",
     "textures": {
-      "layer0": "catsmp:item/invisible_sword_guy"
+      "layer0": "catsmp:item/cards/set_1/invisible_sword_guy"
     }
   }

@@ -1,6 +1,6 @@
 {
     "parent": "minecraft:item/handheld",
     "textures": {
-      "layer0": "catsmp:item/host_of_horrors"
+      "layer0": "catsmp:item/cards/set_1/host_of_horrors"
     }
   }

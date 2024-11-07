@@ -1,6 +1,6 @@
 {
     "parent": "minecraft:item/handheld",
     "textures": {
-      "layer0": "catsmp:item/minigun_dozer"
+      "layer0": "catsmp:item/cards/set_1/minigun_dozer"
     }
   }

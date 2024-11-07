@@ -1,6 +1,6 @@
 {
     "parent": "minecraft:item/handheld",
     "textures": {
-      "layer0": "catsmp:item/the_noise_and_doise"
+      "layer0": "catsmp:item/cards/set_1/the_noise_and_doise"
     }
   }
