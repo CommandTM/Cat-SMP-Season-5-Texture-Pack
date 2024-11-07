@@ -1,0 +1,32 @@
+{
+    "parent": "minecraft:item/handheld",
+    "textures": {
+      "layer0": "item/echo_shard"
+    },
+
+    "overrides": [
+        {"predicate": {"custom_model_data": 1}, "model": "catsmp:numbers/1"},
+        {"predicate": {"custom_model_data": 2}, "model": "catsmp:numbers/2"},
+        {"predicate": {"custom_model_data": 3}, "model": "catsmp:numbers/3"},
+        {"predicate": {"custom_model_data": 4}, "model": "catsmp:numbers/4"},
+        {"predicate": {"custom_model_data": 5}, "model": "catsmp:numbers/5"},
+        {"predicate": {"custom_model_data": 6}, "model": "catsmp:numbers/6"},
+        {"predicate": {"custom_model_data": 7}, "model": "catsmp:numbers/7"},
+        {"predicate": {"custom_model_data": 8}, "model": "catsmp:numbers/8"},
+        {"predicate": {"custom_model_data": 9}, "model": "catsmp:numbers/9"},
+        {"predicate": {"custom_model_data": 10}, "model": "catsmp:numbers/10"},
+        {"predicate": {"custom_model_data": 11}, "model": "catsmp:numbers/11"},
+        {"predicate": {"custom_model_data": 12}, "model": "catsmp:numbers/12"},
+        {"predicate": {"custom_model_data": 13}, "model": "catsmp:numbers/13"},
+        {"predicate": {"custom_model_data": 14}, "model": "catsmp:numbers/14"},
+        {"predicate": {"custom_model_data": 15}, "model": "catsmp:numbers/15"},
+        {"predicate": {"custom_model_data": 16}, "model": "catsmp:numbers/16"},
+        {"predicate": {"custom_model_data": 17}, "model": "catsmp:numbers/17"},
+        {"predicate": {"custom_model_data": 18}, "model": "catsmp:numbers/18"},
+        {"predicate": {"custom_model_data": 19}, "model": "catsmp:numbers/19"},
+        {"predicate": {"custom_model_data": 20}, "model": "catsmp:numbers/20"},
+        {"predicate": {"custom_model_data": 21}, "model": "catsmp:numbers/21"},
+        {"predicate": {"custom_model_data": 22}, "model": "catsmp:numbers/22"},
+        {"predicate": {"custom_model_data": 23}, "model": "catsmp:numbers/23"}
+	]
+}

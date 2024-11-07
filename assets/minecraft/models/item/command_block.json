@@ -1,0 +1,9 @@
+{
+    "parent": "minecraft:block/command_block",
+
+    "overrides": [
+        {"predicate": {"custom_model_data": 1}, "model": "catsmp:event_token"},
+        {"predicate": {"custom_model_data": 2}, "model": "catsmp:cosmetics/jai_witch_hat"},
+        {"predicate": {"custom_model_data": 3}, "model": "catsmp:cosmetics/llary_masque"}
+    ]
+}

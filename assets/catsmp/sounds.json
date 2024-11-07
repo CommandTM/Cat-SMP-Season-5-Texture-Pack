@@ -1,0 +1,9 @@
+{
+    "music_disc.london_underground": {
+	"sounds": [
+		{
+		    "name": "catsmp:records/london_underground"
+		}
+	]
+}
+}

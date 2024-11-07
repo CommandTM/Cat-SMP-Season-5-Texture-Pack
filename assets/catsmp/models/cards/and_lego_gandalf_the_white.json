@@ -1,0 +1,6 @@
+{
+    "parent": "minecraft:item/handheld",
+    "textures": {
+      "layer0": "catsmp:item/and_lego_gandalf_the_white"
+    }
+  }

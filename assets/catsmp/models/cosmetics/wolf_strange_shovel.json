@@ -1,0 +1,6 @@
+{
+    "parent": "minecraft:item/handheld",
+    "textures": {
+      "layer0": "catsmp:item/cosmetics/wolf_strange_shovel"
+    }
+  }
