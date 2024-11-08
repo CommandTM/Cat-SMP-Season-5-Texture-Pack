@@ -1,9 +1,30 @@
 {
     "music_disc.london_underground": {
-	"sounds": [
-		{
-		    "name": "catsmp:records/london_underground"
-		}
-	]
-}
+		"sounds": [
+			{
+		    	"name": "catsmp:records/london_underground"
+			}
+		]
+	},
+	"music_disc.cat_smp_season_five_main_theme": {
+		"sounds": [
+			{
+		    	"name": "catsmp:records/cat_smp_season_five_main_theme"
+			}
+		]
+	},
+	"music_disc.harder_faster_better_stronger": {
+		"sounds": [
+			{
+		    	"name": "catsmp:records/harder_faster_better_stronger"
+			}
+		]
+	},
+	"music_disc.three_big_shots": {
+		"sounds": [
+			{
+		    	"name": "catsmp:records/three_big_shots"
+			}
+		]
+	}
 }
