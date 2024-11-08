@@ -5,6 +5,9 @@
     },
 
     "overrides": [
-        {"predicate": {"custom_model_data": 1}, "model": "catsmp:london_underground_disc"}
+        {"predicate": {"custom_model_data": 1}, "model": "catsmp:london_underground_disc"},
+        {"predicate": {"custom_model_data": 2}, "model": "catsmp:three_big_shots_disc"},
+        {"predicate": {"custom_model_data": 3}, "model": "catsmp:cat_smp_season_five_main_theme_disc"},
+        {"predicate": {"custom_model_data": 4}, "model": "catsmp:harder_faster_better_stronger_disc"}
     ]
 }

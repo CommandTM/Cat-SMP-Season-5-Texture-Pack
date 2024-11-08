@@ -1,0 +1,6 @@
+{
+    "parent": "minecraft:item/template_music_disc",
+    "textures": {
+        "layer0": "catsmp:item/harder_faster_better_stronger_disc"
+    }
+}
