@@ -1,6 +1,6 @@
 {
     "parent": "minecraft:item/handheld",
     "textures": {
-      "layer0": "catsmp:item/19"
+      "layer0": "catsmp:item/numbers/19"
     }
 }

@@ -1,0 +1,6 @@
+{
+    "parent": "minecraft:item/handheld",
+    "textures": {
+      "layer0": "catsmp:item/cards/set_1/dr_marios_wild_ride"
+    }
+  }

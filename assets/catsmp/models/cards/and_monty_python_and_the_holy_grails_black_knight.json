@@ -1,6 +1,0 @@
-{
-    "parent": "minecraft:item/handheld",
-    "textures": {
-      "layer0": "catsmp:item/and_monty_python_and_the_holy_grails_black_knight"
-    }
-  }

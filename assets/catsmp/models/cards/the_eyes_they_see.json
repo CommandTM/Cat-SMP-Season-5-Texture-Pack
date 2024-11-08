@@ -1,6 +1,0 @@
-{
-    "parent": "minecraft:item/handheld",
-    "textures": {
-      "layer0": "catsmp:item/the_eyes_they_see"
-    }
-  }

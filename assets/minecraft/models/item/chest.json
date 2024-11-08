@@ -36,6 +36,6 @@
         }
     },
     "overrides": [
-        {"predicate": {"custom_model_data": 1}, "model": "catsmp:set_1_pack"}
+        {"predicate": {"custom_model_data": 1}, "model": "catsmp:cards/set_1_pack"}
     ]
 }

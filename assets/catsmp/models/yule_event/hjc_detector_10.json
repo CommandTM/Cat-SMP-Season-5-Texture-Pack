@@ -1,0 +1,6 @@
+{
+    "parent": "minecraft:item/generated",
+    "textures": {
+      "layer0": "catsmp:item/yule_event/hjc_detector_10"
+    }
+  }

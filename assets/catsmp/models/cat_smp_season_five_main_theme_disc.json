@@ -1,0 +1,6 @@
+{
+    "parent": "minecraft:item/template_music_disc",
+    "textures": {
+        "layer0": "catsmp:item/cat_smp_season_five_main_theme_disc"
+    }
+}
