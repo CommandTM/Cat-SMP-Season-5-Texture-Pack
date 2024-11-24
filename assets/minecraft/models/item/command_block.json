@@ -4,6 +4,20 @@
     "overrides": [
         {"predicate": {"custom_model_data": 1}, "model": "catsmp:event_token"},
         {"predicate": {"custom_model_data": 2}, "model": "catsmp:cosmetics/jai_witch_hat"},
-        {"predicate": {"custom_model_data": 3}, "model": "catsmp:cosmetics/llary_masque"}
+        {"predicate": {"custom_model_data": 3}, "model": "catsmp:cosmetics/llary_masque"},
+        {"predicate": {"custom_model_data": 4}, "model": "catsmp:yule_event/dm_1"},
+        {"predicate": {"custom_model_data": 5}, "model": "catsmp:yule_event/dm_2"},
+        {"predicate": {"custom_model_data": 6}, "model": "catsmp:yule_event/dm_3"},
+        {"predicate": {"custom_model_data": 7}, "model": "catsmp:yule_event/dm_4"},
+        {"predicate": {"custom_model_data": 8}, "model": "catsmp:yule_event/dm_5"},
+        {"predicate": {"custom_model_data": 9}, "model": "catsmp:yule_event/dm_6"},
+        {"predicate": {"custom_model_data": 10}, "model": "catsmp:yule_event/gift"},
+        {"predicate": {"custom_model_data": 11}, "model": "catsmp:yule_event/letter"},
+        {"predicate": {"custom_model_data": 12}, "model": "catsmp:yule_event/ornament"},
+        {"predicate": {"custom_model_data": 13}, "model": "catsmp:yule_event/tinsel"},
+        {"predicate": {"custom_model_data": 14}, "model": "catsmp:yule_event/maintenance_form"},
+        {"predicate": {"custom_model_data": 15}, "model": "catsmp:yule_event/bauble_o_blessing"},
+        {"predicate": {"custom_model_data": 16}, "model": "catsmp:yule_event/tree"},
+        {"predicate": {"custom_model_data": 17}, "model": "catsmp:yule_event/evil_tree"}
     ]
 }
