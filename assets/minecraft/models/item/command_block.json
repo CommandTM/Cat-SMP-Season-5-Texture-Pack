@@ -18,6 +18,10 @@
         {"predicate": {"custom_model_data": 14}, "model": "catsmp:yule_event/maintenance_form"},
         {"predicate": {"custom_model_data": 15}, "model": "catsmp:yule_event/bauble_o_blessing"},
         {"predicate": {"custom_model_data": 16}, "model": "catsmp:yule_event/tree"},
-        {"predicate": {"custom_model_data": 17}, "model": "catsmp:yule_event/evil_tree"}
+        {"predicate": {"custom_model_data": 17}, "model": "catsmp:yule_event/evil_tree"},
+        {"predicate": {"custom_model_data": 18}, "model": "catsmp:plush/command"},
+        {"predicate": {"custom_model_data": 19}, "model": "catsmp:plush/jai"},
+        {"predicate": {"custom_model_data": 20}, "model": "catsmp:plush/llary"},
+        {"predicate": {"custom_model_data": 21}, "model": "catsmp:plush/robin"}
     ]
 }
